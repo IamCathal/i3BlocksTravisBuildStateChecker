@@ -1,7 +1,9 @@
 # i3 blocks Travis CI build state checker
 
-This is a nice little i3blocks indicator script to help you monitor the current build state of a github repository.
 ![](https://i.imgur.com/tZXUt7Q.png)
+
+
+This is a nice little i3blocks indicator script to help you monitor the current build state of a github repository.
 ## Installation
 
 1. Get the url for the build indicator from your repository e.g view the indicator as an image to get the direct url for it. The link will look like `https://api.travis-ci.org/raysan5/raylib.svg?branch=master`
